@@ -1,7 +1,6 @@
 package config;
 
 import io.appium.java_client.remote.MobileCapabilityType;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
